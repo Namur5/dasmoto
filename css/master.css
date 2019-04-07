@@ -1,3 +1,38 @@
 h1 {
-  color: red;
+  color: khaki;
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  background-image: url("../images/pattern.jpeg");
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Helvetica;
+  color: white;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-weight: bold;
+}
+
+#BrushesH2 {
+  background-color: mediumspringgreen;
+}
+
+#FramesH2 {
+  background-color: lightcoral;
+}
+
+#PaintH2 {
+  background-color: skyblue;
+}
+
+.Price {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
 }
